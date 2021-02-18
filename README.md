@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KellsWorks🎈
-- 👀 I’m interested in (♦) TypeScript (♦) Kotlin (♦) Php & it's frameworks (♦) Javascript & it's frameworks (♦) Python (♦) C# (♦) C++ (♦) C
+- 👀 I’m interested in (♦) TypeScript (♦) Kotlin (♦) Java (♦) Php (♦) Javascript(♦) Python (♦) C# (♦) C++
 - 💞️ I’m looking to collaborate on mobile app development using React-native & Objective-C🎉🎉
 - 📫 Reach me on: kellsworks@gmail.com
 
