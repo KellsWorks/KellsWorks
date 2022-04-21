@@ -1,4 +1,4 @@
-Hello there, Looking for collaboration? Hit me on kchidothi@outlook.com
+Hello there, Looking for collaboration? Hit me on kellsworks@gmail.com
 
 <!---
 KellsWorks/KellsWorks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
