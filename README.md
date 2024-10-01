@@ -4,8 +4,7 @@
 
 - **Languages**: PHP, Python, R, TypeScript, JavaScript, Ruby, C++, C#, Kotlin & Go
 - **Bioinformatics Tools**: BLAST, BioConda, ClustalW, Bioconductor, MAFT, MEGA, PyMOL
-- **Version Control**: Git, GitHub
-- **CSS Frameworks**: Tailwind CSS (The best), Vuetify, Material Design
+- **CSS Frameworks**: Tailwind, Vuetify, Material Design
 
 ## 📫 How to Reach Me
 
