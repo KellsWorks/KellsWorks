@@ -3,8 +3,7 @@
 ## 🛠️ Technologies & Tools
 
 - **Languages**: PHP, Python, R, TypeScript, JavaScript, Ruby, C++, C#, Kotlin & Go
-- **Bioinformatics Tools**: BLAST, BioConda, ClustalW, Bioconductor, MAFT, MEGA, PyMOL, STAR Aligner
-- **CSS Frameworks**: Tailwind, Vuetify, Material Design, Ionic
+- **Bioinformatics Tools**: BLAST, BioConda, ClustalW, Bioconductor, MAFT, MEGA, PyMOL, QIIME2, Artemis, list goes on
 
 ## 📫 How to Reach Me
 
